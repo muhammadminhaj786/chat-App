@@ -39,6 +39,13 @@ const SignupController = async (req,res)=>{
 
 }
 
+//get all user api
+const getAllUser = async (req,res)=>{
+    const keyword = req.query
+    console.log(keyword);
+}
+
 module.exports ={
-    SignupController
+    SignupController,
+    getAllUser
 }
