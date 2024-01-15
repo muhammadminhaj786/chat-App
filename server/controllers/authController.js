@@ -41,7 +41,7 @@ const SignupController = async (req,res)=>{
 
 //get all user api
 const getAllUser = async (req,res)=>{
-    const keyword = req.query
+    const keyword = req.query.search
     console.log(keyword);
 }
 
