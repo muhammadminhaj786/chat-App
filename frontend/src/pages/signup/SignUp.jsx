@@ -96,7 +96,7 @@ const SignUp = () => {
               </p> */}
           </div>
           <div style={{marginTop:"20px"}} className='w-[80%] mx-auto '>
-            <button  type='submit' className='login-btn ' >SignUp</button>
+            <button  type='submit' className='login-btn bg-primary ' >SignUp</button>
           </div>
             </form>
           </div>

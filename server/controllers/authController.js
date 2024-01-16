@@ -40,7 +40,6 @@
 
 // }
 
-<<<<<<< HEAD
 // //get all user api
 // const getAllUser = asyncHandler(async (req, res) => {
 //   const keyword = req.query.search
@@ -142,7 +141,7 @@ const authUser = asyncHandler(async (req, res) => {
 });
 
 module.exports = { allUsers, registerUser, authUser };
-=======
+// =======
 //get all user api
 const getAllUser = async (req,res)=>{
     const keyword = req.query.search
@@ -153,4 +152,3 @@ module.exports ={
     SignupController,
     getAllUser
 }
->>>>>>> 45439d2388a340e48b8eba08c65f63a477b26673
