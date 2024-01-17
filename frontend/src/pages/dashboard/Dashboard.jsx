@@ -16,6 +16,7 @@ const Dashboard = () => {
         <div className='w-[50%] border border-green-600 h-screen'></div>
         <div className='w-[25%] border border-green-600 h-screen'></div>
     </div>
+    <div>footer<div/>
   )
 }
 
