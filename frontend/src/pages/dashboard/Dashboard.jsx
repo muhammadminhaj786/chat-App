@@ -10,6 +10,7 @@ const Dashboard = () => {
                 <div className='ml-3' >
                     <p className='text-[16px]'>minhaj</p>
                     <p className='text-[16px]'>online</p>
+                    <p>remove</p>
                 </div>
             </div>
         </div>
