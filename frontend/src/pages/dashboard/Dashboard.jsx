@@ -14,9 +14,11 @@ const Dashboard = () => {
             </div>
         </div>
         <div className='w-[50%] border border-green-600 h-screen'></div>
-        <div className='w-[25%] border border-green-600 h-screen'></div>
+        <div className='w-[25%] border border-green-600 h-screen'>
+          <div><h1 className='text-[orange]'>People</h1></div>
+          <div></div>
+        </div>
     </div>
-    <div>footer<div/>
   )
 }
 

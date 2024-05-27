@@ -1,7 +1,7 @@
 import React from 'react'
 import './App.css'
 import SignUp from './pages/signup/Signup'
-import Dashboard from './pages/dashboard/dashboard'
+import Dashboard from './pages/dashboard/Dashboard'
 
 const App = () => {
   return (
